@@ -11,6 +11,6 @@ public class HomeController {
 
     @GetMapping
     public String index() {
-        return "Welcome to Spring Boot";
+        return "Welcome to Spring Boot :))))";
     }
 }
